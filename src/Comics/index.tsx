@@ -60,7 +60,7 @@ const Comics: React.FC = () => {
             </a>
         </div>
       </Header>
-      
+    
       <CardComics>
         {comics.map(comics =>{
           //console.log(comics);
